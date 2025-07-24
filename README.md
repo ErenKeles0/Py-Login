@@ -1,2 +1,2 @@
-# Application Input GUI
-Input GUI with python by Eren Keleş
+# Py-Login
+A basic Login-Register program on python.
